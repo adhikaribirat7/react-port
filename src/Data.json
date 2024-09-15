@@ -1,0 +1,23 @@
+{
+  "service": [
+    {
+
+      "skill": "UX & UI",
+      "experience": 5,
+      "description": "abcd"
+    },
+    {
+
+      "skill": "Web Development",
+      "experience": 5,
+      "description": "abcd"
+    },
+    {
+
+      "skill": "Android Development",
+      "experience": 5,
+      "description": "abcd"
+    }
+  ],
+  "about-me":["Bsc(hons)computing", "Software Engineer", "Android Developer"]
+} 
